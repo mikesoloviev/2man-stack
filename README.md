@@ -1,5 +1,5 @@
 # 2man-stack
-2MAN Stack - Cross-platform web development with .NET Core, Angular, Angular Material, Angular and MySQL
+2MAN Stack - Cross-platform web development with .NET Core, Angular, Angular Material, and MySQL
 
 Content:
 1. General information about the 2MAN stack

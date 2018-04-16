@@ -1,1 +1,7 @@
--- test
+CREATE SCHEMA `mywebapp`;
+USE `mywebapp`;
+CREATE TABLE `account` (
+  `Id` INT NOT NULL AUTO_INCREMENT,
+  `Username` VARCHAR(100) NOT NULL DEFAULT '',
+  `Password` VARCHAR(100) NOT NULL DEFAULT '',
+  PRIMARY KEY (`Id`));
